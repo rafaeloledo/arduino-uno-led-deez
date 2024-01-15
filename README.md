@@ -14,5 +14,6 @@
 - LED's negative (ground) side connected in the black jumper
 - RED jumper connected in Arduino's 10th pin and the black on the GND pin
 
-![image](assets/live.jpeg)
+<img src="assets/live.jpeg" width="480" alt="live pic">
+
 ![gif](assets/live.gif)
