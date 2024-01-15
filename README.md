@@ -15,3 +15,4 @@
 - RED jumper connected in Arduino's 10th pin and the black on the GND pin
 
 ![image](assets/live.jpeg)
+![gif](assets/live.gif)
